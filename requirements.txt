@@ -1,0 +1,6 @@
+sphinx-rtd-theme
+python-dotenv
+pymysql
+SQLAlchemy
+bs4
+pandas
